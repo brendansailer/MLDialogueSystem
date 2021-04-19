@@ -1,0 +1,2205 @@
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+Nebraska won the game . </s>
+Nebraska won the game . </s>
+Nebraska won the game . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+<s> the game occurred in 2000 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+Nebraska won the game . </s>
+Nebraska won the game . </s>
+Nebraska won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+Texas A&M won the game . </s>
+Texas A&M won the game . </s>
+Texas A&M won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+Tennessee won the game . </s>
+Tennessee won the game . </s>
+Tennessee won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+Bob Davie was the coach . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+<s> the game occurred in 2001 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+<s> the game occurred in 2002 . </s>
+USC won the game . </s>
+USC won the game . </s>
+USC won the game . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Purdue won the game . </s>
+Purdue won the game . </s>
+Purdue won the game . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+USC won the game . </s>
+USC won the game . </s>
+USC won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Florida State won the game . </s>
+Florida State won the game . </s>
+Florida State won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+<s> the game occurred in 2003 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+BYU won the game . </s>
+BYU won the game . </s>
+BYU won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Purdue won the game . </s>
+Purdue won the game . </s>
+Purdue won the game . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+Pittsburgh won the game . </s>
+Pittsburgh won the game . </s>
+Pittsburgh won the game . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+Tyrone Willingham was the coach . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+<s> the game occurred in 2004 . </s>
+USC won the game . </s>
+USC won the game . </s>
+USC won the game . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+USC won the game . </s>
+USC won the game . </s>
+USC won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+<s> the game occurred in 2005 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+<s> the game occurred in 2006 . </s>
+USC won the game . </s>
+USC won the game . </s>
+USC won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+Georgia Tech won the game . </s>
+Georgia Tech won the game . </s>
+Georgia Tech won the game . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Penn State won the game . </s>
+Penn State won the game . </s>
+Penn State won the game . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+Purdue won the game . </s>
+Purdue won the game . </s>
+Purdue won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+USC won the game . </s>
+USC won the game . </s>
+USC won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Navy won the game . </s>
+Navy won the game . </s>
+Navy won the game . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+Air Force won the game . </s>
+Air Force won the game . </s>
+Air Force won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+<s> the game occurred in 2007 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+North Carolina won the game . </s>
+North Carolina won the game . </s>
+North Carolina won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+Pittsburgh won the game . </s>
+Pittsburgh won the game . </s>
+Pittsburgh won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+Boston College won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Syracuse won the game . </s>
+Syracuse won the game . </s>
+Syracuse won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+<s> the game occurred in 2008 . </s>
+USC won the game . </s>
+USC won the game . </s>
+USC won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+USC won the game . </s>
+USC won the game . </s>
+USC won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+Navy won the game . </s>
+Navy won the game . </s>
+Navy won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Pittsburgh won the game . </s>
+Pittsburgh won the game . </s>
+Pittsburgh won the game . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+Connecticut won the game . </s>
+Connecticut won the game . </s>
+Connecticut won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+<s> the game occurred in 2009 . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Charlie Weis was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Navy won the game . </s>
+Navy won the game . </s>
+Navy won the game . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Tulsa won the game . </s>
+Tulsa won the game . </s>
+Tulsa won the game . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+<s> the game occurred in 2010 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+South Florida won the game . </s>
+South Florida won the game . </s>
+South Florida won the game . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+USC won the game . </s>
+USC won the game . </s>
+USC won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+<s> the game occurred in 2011 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+<s> the game occurred in 2012 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Oklahoma won the game . </s>
+Oklahoma won the game . </s>
+Oklahoma won the game . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Pittsburgh won the game . </s>
+Pittsburgh won the game . </s>
+Pittsburgh won the game . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+<s> the game occurred in 2013 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+Florida State won the game . </s>
+Florida State won the game . </s>
+Florida State won the game . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Arizona State won the game . </s>
+Arizona State won the game . </s>
+Arizona State won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+Northwestern won the game . </s>
+Northwestern won the game . </s>
+Northwestern won the game . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+Louisville won the game . </s>
+Louisville won the game . </s>
+Louisville won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+<s> the game occurred in 2014 . </s>
+USC won the game . </s>
+USC won the game . </s>
+USC won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Clemson won the game . </s>
+Clemson won the game . </s>
+Clemson won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+<s> the game occurred in 2015 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+Texas won the game . </s>
+Texas won the game . </s>
+Texas won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+Michigan State won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+Duke won the game . </s>
+Duke won the game . </s>
+Duke won the game . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+NC State won the game . </s>
+NC State won the game . </s>
+NC State won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+Navy won the game . </s>
+Navy won the game . </s>
+Navy won the game . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Virginia Tech won the game . </s>
+Virginia Tech won the game . </s>
+Virginia Tech won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+<s> the game occurred in 2016 . </s>
+USC won the game . </s>
+USC won the game . </s>
+USC won the game . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Georgia won the game . </s>
+Georgia won the game . </s>
+Georgia won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Miami won the game . </s>
+Miami won the game . </s>
+Miami won the game . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+<s> the game occurred in 2017 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+Stanford won the game . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+<s> the game occurred in 2018 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Georgia won the game . </s>
+Georgia won the game . </s>
+Georgia won the game . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Michigan won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+<s> the game occurred in 2019 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+<s> the game occurred in 2020 . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Notre Dame won the game . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
+Brian Kelly was the coach . </s>
