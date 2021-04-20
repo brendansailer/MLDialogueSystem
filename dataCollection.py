@@ -64,5 +64,5 @@ print(df2_trunc)
 
 df_merge = pd.merge(df_trunc, df2_trunc, left_on='season', right_on='year', how='left')
 df_merge.drop("year", inplace=True, axis=1)
-df_merge.to_csv('data.csv', sep=',', encoding='utf-8')
-#df_merge.to_csv('data_test.csv', sep=',', encoding='utf-8')
+df_merge.to_csv('data/data.csv', sep=',', encoding='utf-8')
+#df_merge.to_csv('data/data_test.csv', sep=',', encoding='utf-8')

@@ -2,12 +2,12 @@ import pandas as pd
 import random
 
 # Open each template file
-qFile = open("questions.txt","a")
-cFile = open("contexts.txt","a")
-aFile = open("answers.txt", "a")
+qFile = open("data/questions.txt","w") # Truncate the file if it already exists
+cFile = open("data/contexts.txt","w")
+aFile = open("data/answers.txt", "w")
 
 # Create data frame from data file
-df = pd.read_csv("data.csv")
+df = pd.read_csv("data/data.csv")
 
 # Loop for each row in our data
 for i in range(0, 245):
@@ -33,9 +33,9 @@ for i in range(0, 245):
         for _ in range(0, 3):
             aFile.write("<s> the game occurred in " + str(season) + " . </s>\n")
         for _ in range(0, 3):
-            aFile.write(str(coach) + " was the coach . </s>\n")
+            aFile.write("<s> " + str(coach) + " was the coach . </s>\n")
         for _ in range(0, 3):
-            aFile.write(str(winner) + " won the game . </s>\n")
+            aFile.write("<s> " + str(winner) + " won the game . </s>\n")
     elif sentence == 2:
         qFile.writelines(["<s> what year was the game ? </s>\n", 
                     "<s> in what year was the game played ? </s>\n",
@@ -52,9 +52,9 @@ for i in range(0, 245):
         for _ in range(0, 3):
             aFile.write("<s> the game occurred in " + str(season) + " . </s>\n")
         for _ in range(0, 3):
-            aFile.write(str(winner) + " won the game . </s>\n")
+            aFile.write("<s> " + str(winner) + " won the game . </s>\n")
         for _ in range(0, 3):
-            aFile.write(str(coach) + " was the coach . </s>\n")
+            aFile.write("<s> " + str(coach) + " was the coach . </s>\n")
     elif sentence == 3:
         qFile.writelines(["<s> who was the coach ? </s>\n",
                     "<s> tell me who the coach ? </s>\n",
@@ -68,11 +68,11 @@ for i in range(0, 245):
         for _ in range(0, 9):
             cFile.write("<s> " + str(coach) + " was the coach . the game occurred in " + str(season) + " . " + str(winner) + " won the game . </s>\n")
         for _ in range(0, 3):
-            aFile.write(str(coach) + " was the coach . </s>\n")
+            aFile.write("<s> " + str(coach) + " was the coach . </s>\n")
         for _ in range(0, 3):
             aFile.write("<s> the game occurred in " + str(season) + " . </s>\n")
         for _ in range(0, 3):
-            aFile.write(str(winner) + " won the game . </s>\n")
+            aFile.write("<s> " + str(winner) + " won the game . </s>\n")
 
 # Close files  
 qFile.close()
