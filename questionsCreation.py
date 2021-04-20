@@ -1,6 +1,8 @@
 import pandas as pd
 import random
 
+random.seed(1337) # Get the same random ints each time so the data doesn't change run to run of the script
+
 # Open each template file
 qFile = open("data/questions.txt","w") # Truncate the file if it already exists
 cFile = open("data/contexts.txt","w")

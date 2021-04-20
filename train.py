@@ -3,12 +3,10 @@ import re
 import random
 import numpy as np
 from keras.preprocessing.text import Tokenizer
-
-#from keras.preprocessing.sequence import pad_sequences
-#from keras.utils import to_categorical
+from keras.preprocessing.sequence import pad_sequences
 import tensorflow as tf
-#from keras.models import Sequential
-#from keras.layers import Activation, Dense, Dropout, LSTM, Embedding, Conv1D, Masking, Flatten
+
+from model import MLModel
 
 random.seed(1337)
 np.random.seed(1337)
@@ -40,6 +38,22 @@ def data_split(data, line_count):
 
     return traindat, valdat, testdat
 
+# Tokenize the data
+def tokenize(tokenizer, train, val, test):
+    train = tokenizer.texts_to_sequences(train)
+    val   = tokenizer.texts_to_sequences(val)
+    test  = tokenizer.texts_to_sequences(test)
+
+    return [train, val, test]
+
+# Pad the data
+def pad_data(text_maxlen, train, val, test):
+    train = pad_sequences(train, padding="post", truncating="post", maxlen=text_maxlen)
+    val   = pad_sequences(val, padding="post", truncating="post", maxlen=text_maxlen)
+    test  = pad_sequences(test, padding="post", truncating="post", maxlen=text_maxlen)
+
+    return [train, val, test]
+
 # Create the tokenizer and save it as a file in the /toks directory
 def create_tokenizer(training_data, vocab_size, filename):
     tokenizer = Tokenizer(lower=False, num_words=vocab_size, oov_token="UNK")
@@ -66,3 +80,31 @@ if __name__ == "__main__":
     context_tok  = create_tokenizer(train_context, 1000, 'toks/context_tok.json')
     answer_tok   = create_tokenizer(train_answer, 1000, 'toks/answer_tok.json')
     question_tok = create_tokenizer(train_question, 1000, 'toks/question_tok.json')
+
+    # Tokenize and pad in the same line for cleaner code
+    train_context, val_context, test_context    = pad_data(50, *tokenize(context_tok, train_context, val_context, test_context))
+    train_answer, val_answer, test_answer       = pad_data(50, *tokenize(answer_tok, train_answer, val_answer, test_answer))
+    train_question, val_question, test_question = pad_data(50, *tokenize(question_tok, train_question, val_question, test_question))
+
+    model = MLModel().get_model()
+'''
+K.set_value(model.optimizer.learning_rate, 0.001)
+
+batch_size  = 70 # May update for more data
+history = model.fit(Xtrain, Ytrain, batch_size=batch_size, epochs=19, verbose=1, validation_data=(Xval, Yval))
+
+Ypred = model.predict(Xtest)
+
+Ypred = np.argmax(Ypred, axis=1)
+Ytest = np.argmax(Ytest, axis=1)
+
+print(Ypred.shape)
+print(Ypred)
+print(Ytest)
+
+from sklearn import metrics
+#print(metrics.classification_report(Ytest, Ypred, target_names=categories)) # Use in deployment where there is an example of every cat in the test set
+print(metrics.classification_report(Ytest, Ypred)) # Use in test when there aren't example for every cat in the test set
+
+print(metrics.confusion_matrix(Ytest, Ypred).transpose())
+'''
