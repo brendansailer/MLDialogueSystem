@@ -4,6 +4,7 @@ import random
 import numpy as np
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
+from keras import backend as K
 import tensorflow as tf
 
 from model import MLModel
@@ -82,17 +83,17 @@ if __name__ == "__main__":
     question_tok = create_tokenizer(train_question, 1000, 'toks/question_tok.json')
 
     # Tokenize and pad in the same line for cleaner code
-    train_context, val_context, test_context    = pad_data(50, *tokenize(context_tok, train_context, val_context, test_context))
-    train_answer, val_answer, test_answer       = pad_data(50, *tokenize(answer_tok, train_answer, val_answer, test_answer))
-    train_question, val_question, test_question = pad_data(50, *tokenize(question_tok, train_question, val_question, test_question))
+    train_context, val_context, test_context    = pad_data(30, *tokenize(context_tok, train_context, val_context, test_context))
+    train_answer, val_answer, test_answer       = pad_data(10, *tokenize(answer_tok, train_answer, val_answer, test_answer))
+    train_question, val_question, test_question = pad_data(20, *tokenize(question_tok, train_question, val_question, test_question))
 
     model = MLModel().get_model()
+
+    K.set_value(model.optimizer.learning_rate, 0.001)
+
+    batch_size  = 70 # May update for more data
+    history = model.fit([train_question, train_answer, train_context], batch_size=batch_size, epochs=19, verbose=1, validation_data=([val_question, val_answer, val_context]))
 '''
-K.set_value(model.optimizer.learning_rate, 0.001)
-
-batch_size  = 70 # May update for more data
-history = model.fit(Xtrain, Ytrain, batch_size=batch_size, epochs=19, verbose=1, validation_data=(Xval, Yval))
-
 Ypred = model.predict(Xtest)
 
 Ypred = np.argmax(Ypred, axis=1)
