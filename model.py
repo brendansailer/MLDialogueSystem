@@ -6,10 +6,10 @@ import keras
 import keras.utils
 
 class MLModel:
-    def __init__(self):
-        self.ques_vocabsize = 1000
-        self.cont_vocabsize = 1000
-        self.answ_vocabsize = 1000
+    def __init__(self, ques_vocabsize, cont_vocabsize, answ_vocabsize):
+        self.ques_vocabsize = ques_vocabsize
+        self.cont_vocabsize = cont_vocabsize
+        self.answ_vocabsize = answ_vocabsize
         
         self.ques_len = 20
         self.cont_len = 30
@@ -59,7 +59,7 @@ class MLModel:
             
         model = Model(inputs=[ques_input, answ_input, cont_input], outputs=out)
 
-        model.summary()
+        #model.summary()
 
         model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
         model.save('qa_g_lstm.h5')
