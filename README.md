@@ -6,6 +6,9 @@ Virtual Environment Setup:
 - Install requirements: pip install -r requirements.txt
 - Exit: deactivate
 
+TO USE:
+- python live_predictor.py -n 1 -q "what year was the game ?"
+
 This is what the output of the teacher force function is (c=context, q=question, n=next work a=answer):
 c: <s> the game occurred in 2001 notre dame won the game bob davie was the coach </s>  q: <s> who was the coach </s>  n: ['bob'] a: <s>
 c: <s> the game occurred in 2001 notre dame won the game bob davie was the coach </s>  q: <s> who was the coach </s>  n: ['davie'] a: <s> bob

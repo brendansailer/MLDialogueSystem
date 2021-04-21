@@ -71,7 +71,7 @@ def pad_data(text_maxlen, train, val, test):
 
 # Create the tokenizer and save it as a file in the /toks directory
 def create_tokenizer(training_data, vocab_size, filename):
-    tokenizer = Tokenizer(lower=False, num_words=vocab_size, oov_token="UNK")
+    tokenizer = Tokenizer(lower=False, num_words=vocab_size, oov_token="UNK", split=' ', filters="") # Don't split the start token <s>
     tokenizer.fit_on_texts(training_data)
 
     tokenizer_json = tokenizer.to_json()
@@ -125,21 +125,6 @@ if __name__ == "__main__":
 
     K.set_value(model.optimizer.learning_rate, 0.001)
 
-    batch_size  = 70 # May update for more data
+    batch_size  = 70 # May update for more data # TODO - check if the order of arguments is wrong
     history = model.fit(x=[train_question, train_answer, train_context], y=np.asarray(train_next_word), batch_size=batch_size, epochs=5, verbose=1, validation_data=([val_question, val_answer, val_context], val_next_word))
-'''
-Ypred = model.predict(Xtest)
-
-Ypred = np.argmax(Ypred, axis=1)
-Ytest = np.argmax(Ytest, axis=1)
-
-print(Ypred.shape)
-print(Ypred)
-print(Ytest)
-
-from sklearn import metrics
-#print(metrics.classification_report(Ytest, Ypred, target_names=categories)) # Use in deployment where there is an example of every cat in the test set
-print(metrics.classification_report(Ytest, Ypred)) # Use in test when there aren't example for every cat in the test set
-
-print(metrics.confusion_matrix(Ytest, Ypred).transpose())
-'''
+    model.save('qa_g_lstm.h5') # Save the model after training

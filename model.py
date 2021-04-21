@@ -62,7 +62,6 @@ class MLModel:
         #model.summary()
 
         model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-        model.save('qa_g_lstm.h5')
 
         return model
 
