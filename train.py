@@ -49,7 +49,7 @@ def teacher_force(context, answer, question):
             context_new.append(cont)
             question_new.append(ques)
             answer_new.append(' '.join(answ[:i])) # This is the first part of the answer.  Join the individual words back to form a sentence
-            next_word.append(answ[i:i+1][0])  # This is the next predicted word TODO - sort out if should be a list with only one element or just the string itself
+            next_word.append(answ[i:i+1][0])  # This is the next predicted word
 
     return context_new, answer_new, question_new, next_word
 
@@ -81,7 +81,7 @@ def create_tokenizer(training_data, vocab_size, filename):
     return tokenizer
 
 def pad_next_word(tokenizer, next_words, vocab_size):
-    train_next_word = answer_tok.texts_to_sequences(next_words)
+    train_next_word = answer_tok.texts_to_sequences(next_words) # Tokenize the words so that we have the word index for the next line below
     padded_next_words = to_categorical(train_next_word, num_classes=vocab_size) # num_classes tells to_categorical to make the vector 1000 long
     return padded_next_words
 
