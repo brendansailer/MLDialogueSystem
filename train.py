@@ -122,7 +122,7 @@ if __name__ == "__main__":
     test_context, test_answer, test_question, test_next_word     = teacher_force(test_context, test_answer, test_question)
 
     # Copy the training data onto itself to make more data to compensate for less initial data
-    train_question, train_answer, train_context, train_next_word = duplicate_data(train_question, train_answer, train_context, train_next_word)
+    #train_question, train_answer, train_context, train_next_word = duplicate_data(train_question, train_answer, train_context, train_next_word)
 
     # Always use the answer_tok to tokenize the next_word list. This will take next_words of size 1 and turn them into size answ_vocabsize (500) which have a single 1 and 999 0's
     train_next_word = pad_next_word(answer_tok, train_next_word, answ_vocabsize)
@@ -138,6 +138,6 @@ if __name__ == "__main__":
 
     K.set_value(model.optimizer.learning_rate, 0.001)
 
-    batch_size  = 70 # May update for more data # TODO - check if the order of arguments is wrong
-    history = model.fit(x=[train_question, train_answer, train_context], y=np.asarray(train_next_word), batch_size=batch_size, epochs=5, verbose=1, validation_data=([val_question, val_answer, val_context], val_next_word))
+    batch_size  = 70 # May update for more data
+    history = model.fit(x=[train_question, train_answer, train_context], y=np.asarray(train_next_word), batch_size=batch_size, epochs=50, verbose=1, validation_data=([val_question, val_answer, val_context], val_next_word))
     model.save('qa_g_lstm.h5') # Save the model after training

@@ -36,7 +36,7 @@ class MLModel:
         # Answer
         answ_embed = Embedding(output_dim=self.embdims, input_dim=self.answ_vocabsize, mask_zero=False)(answ_input)
         ans = GRU(self.recdims, return_sequences=True, activation='tanh', unroll=True)
-        ansout = ans(cont_embed, initial_state=state_cont)
+        ansout = ans(answ_embed, initial_state=state_cont)
         
         # Attn for Answer - Context
         attn = dot([ansout, decout], axes=[2, 2])
