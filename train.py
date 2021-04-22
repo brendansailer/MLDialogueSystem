@@ -45,7 +45,7 @@ def teacher_force(context, answer, question):
     context_new, answer_new, question_new, next_word = [], [], [], []
     for cont, answ, ques in zip(context, answer, question):
         answ = answ.rstrip().split(' ') # Split the answer into words so we can index them.  Remove any trailing spaces as well
-        for i in range(1, len(answ)-1):
+        for i in range(1, len(answ)):
             context_new.append(cont)
             question_new.append(ques)
             answer_new.append(' '.join(answ[:i])) # This is the first part of the answer.  Join the individual words back to form a sentence
