@@ -39,16 +39,16 @@ class MLModel:
         ansout = ans(cont_embed, initial_state=state_cont)
         
         # Attn for Answer - Context
-        attn = dot([ansout, encout], axes=[2, 2])
+        attn = dot([ansout, decout], axes=[2, 2])
         attn = Activation('softmax')(attn)
 
         # Attn for Answer - Question
-        ast_attn = dot([ansout, decout], axes=[2, 2])
+        ast_attn = dot([ansout, encout], axes=[2, 2])
         ast_attn = Activation('softmax')(ast_attn)
 
         # Combine results
-        context = dot([attn, encout], axes=[2, 1])
-        ast_context = dot([ast_attn, decout], axes=[2, 1])
+        context = dot([attn, decout], axes=[2, 1])
+        ast_context = dot([ast_attn, encout], axes=[2, 1])
 
         context = concatenate([context, ansout, ast_context])
             

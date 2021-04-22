@@ -80,6 +80,16 @@ def create_tokenizer(training_data, vocab_size, filename):
 
     return tokenizer
 
+# Copy/Paste the data 3 times to itself
+def duplicate_data(question, answer, context, next_word):
+    for i in range(3):
+        question.extend(question)
+        answer.extend(answer)
+        context.extend(context)
+        next_word.extend(next_word)
+
+    return question, answer, context, next_word
+
 def pad_next_word(tokenizer, next_words, vocab_size):
     train_next_word = answer_tok.texts_to_sequences(next_words) # Tokenize the words so that we have the word index for the next line below
     padded_next_words = to_categorical(train_next_word, num_classes=vocab_size) # num_classes tells to_categorical to make the vector 1000 long
@@ -110,7 +120,10 @@ if __name__ == "__main__":
     train_context, train_answer, train_question, train_next_word = teacher_force(train_context, train_answer, train_question)
     val_context, val_answer, val_question, val_next_word         = teacher_force(val_context, val_answer, val_question)
     test_context, test_answer, test_question, test_next_word     = teacher_force(test_context, test_answer, test_question)
-    
+
+    # Copy the training data onto itself to make more data to compensate for less initial data
+    train_question, train_answer, train_context, train_next_word = duplicate_data(train_question, train_answer, train_context, train_next_word)
+
     # Always use the answer_tok to tokenize the next_word list. This will take next_words of size 1 and turn them into size answ_vocabsize (500) which have a single 1 and 999 0's
     train_next_word = pad_next_word(answer_tok, train_next_word, answ_vocabsize)
     val_next_word   = pad_next_word(answer_tok, val_next_word, answ_vocabsize)

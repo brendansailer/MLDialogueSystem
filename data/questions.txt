@@ -1,6 +1,3 @@
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -25,6 +22,9 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -34,15 +34,15 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -73,12 +73,21 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -91,21 +100,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -118,30 +118,21 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -163,21 +154,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -190,12 +172,30 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -244,12 +244,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -271,6 +271,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -280,6 +286,9 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -295,24 +304,33 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -340,9 +358,6 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -358,6 +373,9 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -370,21 +388,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -406,12 +415,21 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -421,9 +439,6 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -448,6 +463,9 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -460,21 +478,15 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -484,27 +496,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -520,6 +517,9 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -565,15 +565,15 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -583,24 +583,42 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -619,15 +637,6 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -637,9 +646,6 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -649,6 +655,9 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
@@ -679,18 +688,9 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -709,6 +709,12 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -727,6 +733,9 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -763,9 +772,6 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -781,6 +787,9 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -796,27 +805,18 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -844,15 +844,15 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -880,24 +880,33 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -907,6 +916,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -916,15 +931,33 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -934,15 +967,27 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -973,12 +1018,15 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -988,6 +1036,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1000,12 +1054,21 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1015,9 +1078,6 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1027,18 +1087,15 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1048,18 +1105,15 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1072,21 +1126,30 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1099,12 +1162,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1141,15 +1204,15 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1186,6 +1249,9 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1201,9 +1267,6 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1222,9 +1285,6 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1234,12 +1294,6 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1258,15 +1312,6 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1282,6 +1327,9 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1291,9 +1339,6 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1309,9 +1354,18 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1333,12 +1387,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1357,6 +1411,9 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1372,9 +1429,6 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1387,39 +1441,21 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1459,21 +1495,39 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1495,12 +1549,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1513,12 +1567,18 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1528,15 +1588,18 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1558,24 +1621,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1585,12 +1636,6 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1630,12 +1675,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1681,15 +1726,15 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1705,24 +1750,18 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1735,6 +1774,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1756,6 +1801,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1765,21 +1816,15 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1810,21 +1855,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1846,12 +1882,12 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1870,9 +1906,6 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1882,21 +1915,15 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1909,12 +1936,21 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -1978,9 +2014,6 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
@@ -1990,30 +2023,15 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -2056,6 +2074,9 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -2065,27 +2086,24 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> which team won ? </s>
+<s> who won the game ? </s>
+<s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -2101,9 +2119,6 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -2116,27 +2131,24 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -2146,18 +2158,12 @@
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -2170,21 +2176,15 @@
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> which team won ? </s>
-<s> who won the game ? </s>
-<s> what was the result of the game ? </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
-<s> who was the coach ? </s>
-<s> tell me who the coach ? </s>
-<s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
+<s> who was the coach ? </s>
+<s> tell me who the coach ? </s>
+<s> what was the name of the coach? </s>
 <s> what year was the game ? </s>
 <s> in what year was the game played ? </s>
 <s> tell me the year the game was played . </s>
@@ -2194,12 +2194,12 @@
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
+<s> what year was the game ? </s>
+<s> in what year was the game played ? </s>
+<s> tell me the year the game was played . </s>
 <s> who was the coach ? </s>
 <s> tell me who the coach ? </s>
 <s> what was the name of the coach? </s>
 <s> which team won ? </s>
 <s> who won the game ? </s>
 <s> what was the result of the game ? </s>
-<s> what year was the game ? </s>
-<s> in what year was the game played ? </s>
-<s> tell me the year the game was played . </s>
