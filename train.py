@@ -45,7 +45,7 @@ def teacher_force(context, answer, question):
     context_new, answer_new, question_new, next_word = [], [], [], []
     for cont, answ, ques in zip(context, answer, question):
         answ = answ.rstrip().split(' ') # Split the answer into words so we can index them.  Remove any trailing spaces as well
-        for i in range(1, len(answ)-1):
+        for i in range(1, len(answ)):
             context_new.append(cont)
             question_new.append(ques)
             answer_new.append(' '.join(answ[:i])) # This is the first part of the answer.  Join the individual words back to form a sentence
@@ -80,16 +80,6 @@ def create_tokenizer(training_data, vocab_size, filename):
 
     return tokenizer
 
-# Copy/Paste the data 3 times to itself
-def duplicate_data(question, answer, context, next_word):
-    for i in range(3):
-        question.extend(question)
-        answer.extend(answer)
-        context.extend(context)
-        next_word.extend(next_word)
-
-    return question, answer, context, next_word
-
 def pad_next_word(tokenizer, next_words, vocab_size):
     train_next_word = answer_tok.texts_to_sequences(next_words) # Tokenize the words so that we have the word index for the next line below
     padded_next_words = to_categorical(train_next_word, num_classes=vocab_size) # num_classes tells to_categorical to make the vector 1000 long
@@ -121,9 +111,6 @@ if __name__ == "__main__":
     val_context, val_answer, val_question, val_next_word         = teacher_force(val_context, val_answer, val_question)
     test_context, test_answer, test_question, test_next_word     = teacher_force(test_context, test_answer, test_question)
 
-    # Copy the training data onto itself to make more data to compensate for less initial data
-    train_question, train_answer, train_context, train_next_word = duplicate_data(train_question, train_answer, train_context, train_next_word)
-
     # Always use the answer_tok to tokenize the next_word list. This will take next_words of size 1 and turn them into size answ_vocabsize (500) which have a single 1 and 999 0's
     train_next_word = pad_next_word(answer_tok, train_next_word, answ_vocabsize)
     val_next_word   = pad_next_word(answer_tok, val_next_word, answ_vocabsize)
@@ -138,6 +125,6 @@ if __name__ == "__main__":
 
     K.set_value(model.optimizer.learning_rate, 0.001)
 
-    batch_size  = 70 # May update for more data # TODO - check if the order of arguments is wrong
-    history = model.fit(x=[train_question, train_answer, train_context], y=np.asarray(train_next_word), batch_size=batch_size, epochs=5, verbose=1, validation_data=([val_question, val_answer, val_context], val_next_word))
+    batch_size  = 70 # May update for more data
+    history = model.fit(x=[train_question, train_answer, train_context], y=np.asarray(train_next_word), batch_size=batch_size, epochs=50, verbose=1, validation_data=([val_question, val_answer, val_context], val_next_word))
     model.save('qa_g_lstm.h5') # Save the model after training
