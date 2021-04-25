@@ -1,3 +1,14 @@
-,season,week,home_team,home_points,away_team,away_points,winner,first_name,last_name,coach
-0,2020,2,Notre Dame,27,Duke,13,Notre Dame,Brian,Kelly,Brian Kelly
-1,2020,3,Notre Dame,52,South Florida,0,Notre Dame,Brian,Kelly,Brian Kelly
+,season,week,home_team,home_points,away_team,away_points,winner,first_name,last_name,coach,rank,conference
+0,2019,1,Louisville,17,Notre Dame,35,Notre Dame,Brian,Kelly,Brian Kelly,9,FBS Independents
+1,2019,3,Notre Dame,66,New Mexico,14,Notre Dame,Brian,Kelly,Brian Kelly,7,FBS Independents
+2,2019,4,Georgia,23,Notre Dame,17,Georgia,Brian,Kelly,Brian Kelly,7,FBS Independents
+3,2019,5,Notre Dame,35,Virginia,20,Notre Dame,Brian,Kelly,Brian Kelly,10,FBS Independents
+4,2019,6,Notre Dame,52,Bowling Green,0,Notre Dame,Brian,Kelly,Brian Kelly,9,FBS Independents
+5,2019,7,Notre Dame,30,USC,27,Notre Dame,Brian,Kelly,Brian Kelly,9,FBS Independents
+6,2019,9,Michigan,45,Notre Dame,14,Michigan,Brian,Kelly,Brian Kelly,8,FBS Independents
+7,2020,2,Notre Dame,27,Duke,13,Notre Dame,Brian,Kelly,Brian Kelly,0,0
+8,2020,3,Notre Dame,52,South Florida,0,Notre Dame,Brian,Kelly,Brian Kelly,7,FBS Independents
+9,2020,6,Notre Dame,42,Florida State,26,Notre Dame,Brian,Kelly,Brian Kelly,5,FBS Independents
+10,2020,7,Notre Dame,12,Louisville,7,Notre Dame,Brian,Kelly,Brian Kelly,4,FBS Independents
+11,2020,8,Pittsburgh,3,Notre Dame,45,Notre Dame,Brian,Kelly,Brian Kelly,3,FBS Independents
+12,2020,9,Georgia Tech,13,Notre Dame,31,Notre Dame,Brian,Kelly,Brian Kelly,4,FBS Independents

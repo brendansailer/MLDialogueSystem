@@ -11,17 +11,16 @@ import requests
 
 url1 = "https://api.collegefootballdata.com/games"
 url2 = "https://api.collegefootballdata.com/coaches"
+url3 = "https://api.collegefootballdata.com/rankings"
 headers = {"Authorization": "Bearer U51LfKTlfcjpvzHgxmFdewwuqdInAIQyrun/viEFsEemK4Fg54RQr9THlFjJEBZB"}
 
 years = list(range(2000, 2021))
-
 weeks = list(range(0,16))
 
 # Test on reduced dataset
-#years = list(range(2020, 2021))
-#weeks = list(range(0,5))
+#years = list(range(2019, 2021))
+#weeks = list(range(0,10))
 
-req = []
 df = pd.DataFrame()
 for year in years:
     #print("Working on year: " + str(year))
@@ -59,10 +58,39 @@ df2_trunc = df2[["first_name", "last_name"]]
 df2_trunc["coach"] = df2_trunc["first_name"] + " " + df2_trunc["last_name"]
 df2_trunc["year"] = years
 
-print(df_trunc)
-print(df2_trunc)
+req = []
+df3 = pd.DataFrame()
+for year in years:
+    for week in weeks:
+        parameters = {"year":year, "week":week}
+        req = requests.get(url3, params = parameters, headers=headers)
+        try:
+            df3 = df3.append(req.json())
+        except IndexError:
+            pass
+        continue
+
+df3_trunc = df3[['season', 'week', 'polls']]
+d = []
+for index, row in df3_trunc.iterrows():
+    for i in range(len(row['polls'])):
+        if row['polls'][i]['poll'] == 'AP Top 25':
+            for r in row['polls'][i]['ranks']:
+                if r['school'] == 'Notre Dame':
+                    temp = r
+                    temp['season'] = row['season']
+                    temp['week'] = row['week']
+                    del temp['firstPlaceVotes']
+                    del temp['points']
+                    d.append(temp)
+
+df3_trunc = pd.DataFrame(d)
 
 df_merge = pd.merge(df_trunc, df2_trunc, left_on='season', right_on='year', how='left')
 df_merge.drop("year", inplace=True, axis=1)
+df_merge = pd.merge(df_merge, df3_trunc, left_on=['season', 'week'], right_on=['season', 'week'], how='left')
+df_merge.drop("school", inplace=True, axis=1)
+df_merge[['rank', 'conference']] = df_merge[['rank', 'conference']].fillna(value=0)
+df_merge = df_merge.astype({'rank': int})
 df_merge.to_csv('data/data.csv', sep=',', encoding='utf-8')
 #df_merge.to_csv('data/data_test.csv', sep=',', encoding='utf-8')
