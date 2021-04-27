@@ -1,0 +1,1 @@
+qa_g_lstm.h5 - 50 Epochs on the 3 starter questions.  Use questionsCreation.py to create contexts with just 3 fields.

@@ -52,7 +52,7 @@ for i in range(0, 245):
                     "<s> what was the name of the coach? </s>\n"
                     ])
         for _ in range(0, 9):
-            cFile.write("<s> " + str(coach) + " , " + str(winner) + " , " + str(season) + " , " + str(conference) + " , " + str(rank) + " </s>\n")
+            cFile.write("<s> " + str(season) + " , " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " </s>\n")
         for _ in range(0, 3):
             aFile.write("<s> the game occurred in " + str(season) + " . </s>\n")
         for _ in range(0, 3):
@@ -70,13 +70,13 @@ for i in range(0, 245):
                     "<s> in what year was the game played ? </s>\n",
                     "<s> tell me the year the game was played . </s>\n"])
         for _ in range(0, 9):
-            cFile.write("<s> " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " , " + str(season) + " </s>\n")
+            cFile.write("<s> " + str(season) + " , " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " </s>\n")
         for _ in range(0, 3):
             aFile.write("<s> " + str(coach) + " was the coach . </s>\n")
         for _ in range(0, 3):
-            aFile.write("<s> the game occurred in " + str(season) + " . </s>\n")
-        for _ in range(0, 3):
             aFile.write("<s> " + str(winner) + " won the game . </s>\n")
+        for _ in range(0, 3):
+            aFile.write("<s> the game occurred in " + str(season) + " . </s>\n")
 
 # Close files  
 qFile.close()

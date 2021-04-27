@@ -71,7 +71,7 @@ tokenized_context = pad_sequences(tokenized_context, padding="post", truncating=
 tokenized_question = pad_sequences(tokenized_question, padding="post", truncating="post", maxlen=20)
 tokenized_answer = pad_sequences(tokenized_answer, padding="post", truncating="post", maxlen=10)
 
-model = load_model("qa_g_lstm.h5")
+model = load_model("models/qa_g_lstm.h5")
 
 # Predict one word at a time
 for i in range(1, 10):
