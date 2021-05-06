@@ -38,7 +38,6 @@ question = "<s> " + question + " </s>"
 
 # Prepare the answer that starts with <s>
 answer = "<s>"
-#answer = [[4]]
 
 # Load in the context
 context_line = ''
@@ -47,22 +46,20 @@ with open("data/contexts.txt") as f:
     for i, line in enumerate(f):
         if i == line_num:
             context_line = line.strip()
+            context_line = re.sub('[^0-9a-zA-Z</>]+', ' ', context_line)
+            context_line = context_line.lower()
         elif i > line_num:
             break
 
 tokenized_context = context_tokenizer.texts_to_sequences([context_line])
 tokenized_question = question_tokenizer.texts_to_sequences([question])
 tokenized_answer = answer_tokenizer.texts_to_sequences([answer])
-#tokenized_answer = answer
 
 print(context_line)
 print(tokenized_context)
 print()
 print(question)
 print(tokenized_question)
-#tokenized_question[0].insert(0, 1)# Same workaround as above
-#tokenized_question[0].append(5)
-#print(tokenized_question)
 print()
 print(answer)
 print(tokenized_answer)
@@ -71,12 +68,16 @@ tokenized_context = pad_sequences(tokenized_context, padding="post", truncating=
 tokenized_question = pad_sequences(tokenized_question, padding="post", truncating="post", maxlen=20)
 tokenized_answer = pad_sequences(tokenized_answer, padding="post", truncating="post", maxlen=10)
 
-model = load_model("models/qa_g_lstm_context_increased.h5")
+model = load_model("models/qa_g_lstm_context_increased_11.h5")
 
 # Predict one word at a time
 for i in range(1, 10):
    results = model.predict([tokenized_question, tokenized_answer, tokenized_context])
    tokenized_answer[0][i] = np.argmax(results)
 
+print()
 print(tokenized_answer)
-print(answer_tokenizer.sequences_to_texts(tokenized_answer))
+response = answer_tokenizer.sequences_to_texts(tokenized_answer)
+print(response)
+print("FINAL ANSWER: " + response[0][response[0].index("<s>")+4:response[0].index("</s>")])
+

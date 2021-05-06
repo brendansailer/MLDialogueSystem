@@ -126,5 +126,5 @@ if __name__ == "__main__":
     K.set_value(model.optimizer.learning_rate, 0.001)
 
     batch_size  = 70 # May update for more data
-    history = model.fit(x=[train_question, train_answer, train_context], y=np.asarray(train_next_word), batch_size=batch_size, epochs=50, verbose=1, validation_data=([val_question, val_answer, val_context], val_next_word))
-    model.save('models/qa_g_lstm_context_increased.h5') # Save the model after training
+    history = model.fit(x=[train_question, train_answer, train_context], y=np.asarray(train_next_word), batch_size=batch_size, epochs=11, verbose=1, validation_data=([val_question, val_answer, val_context], val_next_word))
+    model.save('models/qa_g_lstm_context_increased_11.h5') # Save the model after training
