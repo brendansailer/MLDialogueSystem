@@ -7,6 +7,24 @@
 <s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
 <s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
 <s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2000 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
+<s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
+<s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
+<s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
+<s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
+<s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
+<s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
+<s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
+<s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
 <s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
 <s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
 <s> 2000 , Bob Davie , Nebraska , 23 , FBS Independents </s>
@@ -25,6 +43,15 @@
 <s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 21 , FBS Independents </s>
 <s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
 <s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
 <s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
@@ -34,6 +61,24 @@
 <s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
 <s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
 <s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
+<s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
+<s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
+<s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
+<s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
+<s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
+<s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
+<s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
+<s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
+<s> 2000 , Bob Davie , Michigan State , 16 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 25 , FBS Independents </s>
@@ -61,6 +106,33 @@
 <s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 20 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 19 , FBS Independents </s>
@@ -97,6 +169,42 @@
 <s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
 <s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2000 , Bob Davie , Notre Dame , 11 , FBS Independents </s>
+<s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
+<s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
+<s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
+<s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
+<s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
+<s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
+<s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
+<s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
+<s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
 <s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
 <s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
 <s> 2001 , Bob Davie , Nebraska , 17 , FBS Independents </s>
@@ -115,6 +223,24 @@
 <s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
 <s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
 <s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
+<s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
+<s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
+<s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
+<s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
+<s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
+<s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
+<s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
+<s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
+<s> 2001 , Bob Davie , Michigan State , 0 , 0 </s>
+<s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
+<s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
+<s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
+<s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
+<s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
+<s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
+<s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
+<s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
+<s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
 <s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
 <s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
 <s> 2001 , Bob Davie , Texas A&M , 0 , 0 </s>
@@ -151,6 +277,42 @@
 <s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
 <s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
 <s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
+<s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
+<s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
+<s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
+<s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
+<s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
+<s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
+<s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
+<s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
 <s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
 <s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
 <s> 2001 , Bob Davie , Boston College , 0 , 0 </s>
@@ -169,6 +331,24 @@
 <s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
 <s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
 <s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
+<s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
+<s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
+<s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
+<s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
+<s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
+<s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
+<s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
+<s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
+<s> 2001 , Bob Davie , Tennessee , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
 <s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
 <s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
 <s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
@@ -187,6 +367,24 @@
 <s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
 <s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
 <s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
+<s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
+<s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
+<s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
+<s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
+<s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
+<s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
+<s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
+<s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
+<s> 2001 , Bob Davie , Stanford , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
+<s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
 <s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
 <s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
 <s> 2001 , Bob Davie , Notre Dame , 0 , 0 </s>
@@ -205,6 +403,24 @@
 <s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 23 , FBS Independents </s>
@@ -223,6 +439,24 @@
 <s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 20 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 12 , FBS Independents </s>
@@ -241,42 +475,6 @@
 <s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
-<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
@@ -295,6 +493,114 @@
 <s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 6 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Boston College , 4 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 9 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , Notre Dame , 8 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
+<s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
 <s> 2002 , Tyrone Willingham , USC , 7 , FBS Independents </s>
@@ -313,6 +619,24 @@
 <s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
 <s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
 <s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 19 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
+<s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
 <s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
 <s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
 <s> 2003 , Tyrone Willingham , Michigan , 15 , FBS Independents </s>
@@ -331,6 +655,24 @@
 <s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Michigan State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Purdue , 0 , 0 </s>
@@ -349,6 +691,24 @@
 <s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , USC , 0 , 0 </s>
@@ -367,6 +727,24 @@
 <s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Boston College , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Florida State , 0 , 0 </s>
@@ -403,6 +781,42 @@
 <s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2003 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , BYU , 0 , 0 </s>
@@ -439,6 +853,42 @@
 <s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , Purdue , 0 , 0 </s>
@@ -466,6 +916,33 @@
 <s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
 <s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
 <s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
 <s> 2004 , Tyrone Willingham , Boston College , 24 , FBS Independents </s>
@@ -484,6 +961,24 @@
 <s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Notre Dame , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
+<s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
 <s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
 <s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
 <s> 2004 , Tyrone Willingham , Pittsburgh , 24 , FBS Independents </s>
@@ -502,6 +997,24 @@
 <s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
 <s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2004 , Tyrone Willingham , USC , 0 , 0 </s>
+<s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2005 , Charlie Weis , Notre Dame , 0 , 0 </s>
@@ -520,6 +1033,24 @@
 <s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 20 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Michigan State , 10 , FBS Independents </s>
@@ -538,6 +1069,24 @@
 <s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 16 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 13 , FBS Independents </s>
@@ -556,6 +1105,24 @@
 <s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
 <s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
 <s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , USC , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
@@ -574,6 +1141,24 @@
 <s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 8 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 7 , FBS Independents </s>
@@ -601,6 +1186,33 @@
 <s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
 <s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2005 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 2 , FBS Independents </s>
@@ -619,6 +1231,24 @@
 <s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 4 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Michigan , 2 , FBS Independents </s>
@@ -655,6 +1285,42 @@
 <s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 12 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 10 , FBS Independents </s>
@@ -682,6 +1348,33 @@
 <s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 11 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 9 , FBS Independents </s>
@@ -700,6 +1393,24 @@
 <s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
 <s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , Notre Dame , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
+<s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
 <s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
 <s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
 <s> 2006 , Charlie Weis , USC , 6 , FBS Independents </s>
@@ -718,6 +1429,24 @@
 <s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Georgia Tech , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Penn State , 0 , 0 </s>
@@ -736,6 +1465,24 @@
 <s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Michigan State , 0 , 0 </s>
@@ -754,6 +1501,24 @@
 <s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Purdue , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
@@ -772,6 +1537,24 @@
 <s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2007 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2007 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2007 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2007 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2007 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2007 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2007 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2007 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2007 , Charlie Weis , USC , 0 , 0 </s>
 <s> 2007 , Charlie Weis , USC , 0 , 0 </s>
 <s> 2007 , Charlie Weis , USC , 0 , 0 </s>
 <s> 2007 , Charlie Weis , USC , 0 , 0 </s>
@@ -790,6 +1573,24 @@
 <s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Navy , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Air Force , 0 , 0 </s>
@@ -817,6 +1618,42 @@
 <s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2007 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
@@ -844,6 +1681,33 @@
 <s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Michigan State , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
@@ -871,6 +1735,24 @@
 <s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
 <s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
 <s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
+<s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
+<s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
+<s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
+<s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
+<s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
+<s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
+<s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
+<s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
+<s> 2008 , Charlie Weis , North Carolina , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
@@ -889,6 +1771,24 @@
 <s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Boston College , 0 , 0 </s>
@@ -907,6 +1807,24 @@
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
+<s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
 <s> 2008 , Charlie Weis , Syracuse , 0 , 0 </s>
@@ -925,6 +1843,15 @@
 <s> 2008 , Charlie Weis , USC , 0 , 0 </s>
 <s> 2008 , Charlie Weis , USC , 0 , 0 </s>
 <s> 2008 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2008 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2008 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2008 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2008 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2008 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2008 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2008 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2008 , Charlie Weis , USC , 0 , 0 </s>
+<s> 2008 , Charlie Weis , USC , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
@@ -934,6 +1861,24 @@
 <s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 23 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Michigan , 18 , FBS Independents </s>
@@ -970,6 +1915,42 @@
 <s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
 <s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
 <s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
 <s> 2009 , Charlie Weis , USC , 25 , FBS Independents </s>
@@ -988,6 +1969,24 @@
 <s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Notre Dame , 25 , FBS Independents </s>
@@ -1006,6 +2005,24 @@
 <s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
 <s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Navy , 19 , FBS Independents </s>
+<s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Pittsburgh , 0 , 0 </s>
@@ -1024,6 +2041,24 @@
 <s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Connecticut , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
+<s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
 <s> 2009 , Charlie Weis , Stanford , 0 , 0 </s>
@@ -1042,6 +2077,24 @@
 <s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Michigan , 0 , 0 </s>
@@ -1060,6 +2113,24 @@
 <s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Michigan State , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Stanford , 0 , 0 </s>
@@ -1096,6 +2167,33 @@
 <s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
@@ -1105,6 +2203,24 @@
 <s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Tulsa , 0 , 0 </s>
@@ -1141,6 +2257,33 @@
 <s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2010 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
 <s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
 <s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
@@ -1150,6 +2293,24 @@
 <s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
 <s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
 <s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
+<s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
+<s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
+<s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
+<s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
+<s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
+<s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
+<s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
+<s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
+<s> 2011 , Brian Kelly , South Florida , 16 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
 <s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
 <s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
 <s> 2011 , Brian Kelly , Michigan , 0 , 0 </s>
@@ -1195,6 +2356,51 @@
 <s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2011 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2011 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2011 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2011 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2011 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2011 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2011 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2011 , Brian Kelly , USC , 0 , 0 </s>
 <s> 2011 , Brian Kelly , USC , 0 , 0 </s>
 <s> 2011 , Brian Kelly , USC , 0 , 0 </s>
 <s> 2011 , Brian Kelly , USC , 0 , 0 </s>
@@ -1231,6 +2437,42 @@
 <s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
 <s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
 <s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
 <s> 2011 , Brian Kelly , Notre Dame , 24 , FBS Independents </s>
@@ -1249,6 +2491,24 @@
 <s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
 <s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
 <s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
+<s> 2011 , Brian Kelly , Stanford , 22 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2012 , Brian Kelly , Notre Dame , 0 , 0 </s>
@@ -1267,6 +2527,24 @@
 <s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 20 , FBS Independents </s>
@@ -1285,6 +2563,15 @@
 <s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
@@ -1294,6 +2581,24 @@
 <s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
@@ -1321,6 +2626,42 @@
 <s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
@@ -1348,6 +2689,24 @@
 <s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
+<s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
 <s> 2012 , Brian Kelly , Notre Dame , 1 , FBS Independents </s>
@@ -1366,6 +2725,24 @@
 <s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Michigan , 14 , FBS Independents </s>
@@ -1384,6 +2761,15 @@
 <s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
@@ -1393,6 +2779,24 @@
 <s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Oklahoma , 22 , FBS Independents </s>
@@ -1438,6 +2842,51 @@
 <s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Pittsburgh , 24 , FBS Independents </s>
@@ -1456,6 +2905,24 @@
 <s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
+<s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
 <s> 2013 , Brian Kelly , Stanford , 25 , FBS Independents </s>
@@ -1474,6 +2941,24 @@
 <s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 17 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
@@ -1492,6 +2977,24 @@
 <s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
@@ -1510,6 +3013,24 @@
 <s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
@@ -1528,6 +3049,24 @@
 <s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Florida State , 5 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
@@ -1546,6 +3085,24 @@
 <s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Arizona State , 8 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
+<s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
 <s> 2014 , Brian Kelly , Northwestern , 15 , FBS Independents </s>
@@ -1564,6 +3121,24 @@
 <s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
 <s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
 <s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
+<s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
+<s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
+<s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
+<s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
+<s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
+<s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
+<s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
+<s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
+<s> 2014 , Brian Kelly , Louisville , 0 , 0 </s>
+<s> 2014 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2014 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2014 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2014 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2014 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2014 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2014 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2014 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2014 , Brian Kelly , USC , 0 , 0 </s>
 <s> 2014 , Brian Kelly , USC , 0 , 0 </s>
 <s> 2014 , Brian Kelly , USC , 0 , 0 </s>
 <s> 2014 , Brian Kelly , USC , 0 , 0 </s>
@@ -1582,6 +3157,24 @@
 <s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 11 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
@@ -1600,6 +3193,24 @@
 <s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
@@ -1618,6 +3229,24 @@
 <s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Clemson , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
@@ -1636,6 +3265,24 @@
 <s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 14 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
@@ -1654,6 +3301,24 @@
 <s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
@@ -1672,6 +3337,24 @@
 <s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
+<s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
 <s> 2015 , Brian Kelly , Stanford , 4 , FBS Independents </s>
@@ -1690,6 +3373,24 @@
 <s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
 <s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
 <s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Texas , 10 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
 <s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
 <s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
 <s> 2016 , Brian Kelly , Notre Dame , 18 , FBS Independents </s>
@@ -1708,6 +3409,24 @@
 <s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
 <s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
 <s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Michigan State , 18 , FBS Independents </s>
+<s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Duke , 0 , 0 </s>
@@ -1726,6 +3445,24 @@
 <s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
+<s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
+<s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
+<s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
+<s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
+<s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
+<s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
+<s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
+<s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
 <s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
 <s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
 <s> 2016 , Brian Kelly , NC State , 0 , 0 </s>
@@ -1744,6 +3481,24 @@
 <s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Stanford , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
@@ -1762,6 +3517,24 @@
 <s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Navy , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Notre Dame , 0 , 0 </s>
@@ -1780,6 +3553,24 @@
 <s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
 <s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
+<s> 2016 , Brian Kelly , Virginia Tech , 0 , 0 </s>
+<s> 2016 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2016 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2016 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2016 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2016 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2016 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2016 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2016 , Brian Kelly , USC , 0 , 0 </s>
+<s> 2016 , Brian Kelly , USC , 0 , 0 </s>
 <s> 2016 , Brian Kelly , USC , 0 , 0 </s>
 <s> 2016 , Brian Kelly , USC , 0 , 0 </s>
 <s> 2016 , Brian Kelly , USC , 0 , 0 </s>
@@ -1798,6 +3589,24 @@
 <s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Georgia , 24 , FBS Independents </s>
@@ -1825,6 +3634,33 @@
 <s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 22 , FBS Independents </s>
@@ -1843,6 +3679,24 @@
 <s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 21 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 13 , FBS Independents </s>
@@ -1861,6 +3715,24 @@
 <s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
@@ -1879,6 +3751,24 @@
 <s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Miami , 3 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
@@ -1897,6 +3787,24 @@
 <s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
 <s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
+<s> 2017 , Brian Kelly , Stanford , 9 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 12 , FBS Independents </s>
@@ -1942,6 +3850,42 @@
 <s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 8 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
@@ -1951,6 +3895,24 @@
 <s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 6 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
@@ -2005,6 +3967,60 @@
 <s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
 <s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2018 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
@@ -2023,6 +4039,15 @@
 <s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
@@ -2032,6 +4057,24 @@
 <s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Georgia , 7 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 10 , FBS Independents </s>
@@ -2059,6 +4102,33 @@
 <s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 9 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Michigan , 8 , FBS Independents </s>
@@ -2077,6 +4147,24 @@
 <s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
@@ -2095,6 +4183,33 @@
 <s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 16 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
+<s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
 <s> 2019 , Brian Kelly , Notre Dame , 15 , FBS Independents </s>
@@ -2122,6 +4237,24 @@
 <s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
 <s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2020 , Brian Kelly , Notre Dame , 0 , 0 </s>
+<s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 7 , FBS Independents </s>
@@ -2140,6 +4273,15 @@
 <s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 5 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
@@ -2149,6 +4291,24 @@
 <s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 3 , FBS Independents </s>
@@ -2176,6 +4336,51 @@
 <s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 4 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
+<s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
 <s> 2020 , Brian Kelly , Notre Dame , 2 , FBS Independents </s>
