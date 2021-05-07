@@ -25,7 +25,9 @@ if not args.n or not args.q:
     
 with open("toks/answer_tok.json") as f:
     answer_tokenizer = tokenizer_from_json(f.read())
-with open("toks/context_tok.json") as f:
+#with open("toks/context_tok.json") as f: # Simple context
+#with open("toks/context_tok_sentence.json") as f: # Sentence context
+with open("toks/context_tok_jumbled.json") as f: # Jumbled context
     context_tokenizer = tokenizer_from_json(f.read())
 with open("toks/question_tok.json") as f:
     question_tokenizer = tokenizer_from_json(f.read())
@@ -42,7 +44,9 @@ answer = "<s>"
 # Load in the context
 context_line = ''
 line_num = args.n
-with open("data/contexts.txt") as f:
+#with open("data/contexts.txt") as f: # Simple context
+#with open("data/contexts_sentence.txt") as f: # Sentence context
+with open("data/contexts_jumbled.txt") as f: # Jumbled context
     for i, line in enumerate(f):
         if i == line_num:
             context_line = line.strip()
@@ -68,7 +72,9 @@ tokenized_context = pad_sequences(tokenized_context, padding="post", truncating=
 tokenized_question = pad_sequences(tokenized_question, padding="post", truncating="post", maxlen=20)
 tokenized_answer = pad_sequences(tokenized_answer, padding="post", truncating="post", maxlen=10)
 
-model = load_model("models/qa_g_lstm_context_increased_11.h5")
+#model = load_model("models/qa_g_lstm_context_increased_11.h5") # Simple context
+#model = load_model("models/qa_g_lstm_context_increased_11_sentence.h5") # Sentence context
+model = load_model("models/qa_g_lstm_context_increased_11_jumbled.h5") # Jumbled context
 
 # Predict one word at a time
 for i in range(1, 10):

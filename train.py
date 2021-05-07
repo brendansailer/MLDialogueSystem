@@ -90,6 +90,9 @@ if __name__ == "__main__":
     cont_vocabsize = 500
     answ_vocabsize = 500
 
+    #context  = read_data('data/contexts.txt') # For context broken up by commas, not in sentence form
+    #context  = read_data('data/contexts_sentence.txt') # For context in sentence form, but not jumbled
+    context  = read_data('data/contexts_jumbled.txt') # For context in sentence form and jumbled
     context  = read_data('data/contexts.txt')
     answer   = read_data('data/answers.txt')
     question = read_data('data/questions.txt')
@@ -102,7 +105,9 @@ if __name__ == "__main__":
     train_question, val_question, test_question = data_split(question, line_count)
 
     # Use the tokenizer fit_on_texts before we teacher force (manipulate the data)
-    context_tok  = create_tokenizer(train_context, cont_vocabsize, 'toks/context_tok.json')
+    #context_tok  = create_tokenizer(train_context, cont_vocabsize, 'toks/context_tok.json')
+    #context_tok  = create_tokenizer(train_context, cont_vocabsize, 'toks/context_tok_sentence.json') # For context in sentence form, but not jumbled
+    context_tok  = create_tokenizer(train_context, cont_vocabsize, 'toks/context_tok_jumbled.json') # For context in sentence form and jumbled
     answer_tok   = create_tokenizer(train_answer, answ_vocabsize, 'toks/answer_tok.json') # TODO - use smaller vocab size on the answers b/c it'll work better to have less 0's
     question_tok = create_tokenizer(train_question, ques_vocabsize, 'toks/question_tok.json')
 
@@ -127,4 +132,6 @@ if __name__ == "__main__":
 
     batch_size  = 70 # May update for more data
     history = model.fit(x=[train_question, train_answer, train_context], y=np.asarray(train_next_word), batch_size=batch_size, epochs=11, verbose=1, validation_data=([val_question, val_answer, val_context], val_next_word))
-    model.save('models/qa_g_lstm_context_increased_11.h5') # Save the model after training
+    #model.save('models/qa_g_lstm_context_increased_11.h5') # Model for simple context
+    #model.save('models/qa_g_lstm_context_increased_11_sentence.h5') # Model for sentence context
+    model.save('models/qa_g_lstm_context_increased_11_jumbled.h5') # Model for jumbled context
