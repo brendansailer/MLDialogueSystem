@@ -65,7 +65,7 @@ for i in range(0, 245):
             #cFile.write("<s> " + str(season) + " , " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " </s>\n") # For context broken up by commas, not in sentence form
             #cFile.write("<s> The game was played in " + str(season) + ". The head coach was " + str(coach) + ". The winner of the game was " + str(winner) + ". Notre Dame was ranked " + str(rank) + ". Notre Dame was a part of the " + str(conference) + " conference.</s>\n") # For context in sentence form, but not jumbled
             #cFile.write("<s> The game was played in " + str(season) + ". The head coach was " + str(coach) + ". The winner of the game was " + str(winner) + ". Notre Dame was ranked " + str(rank) + ". Notre Dame was a part of the " + str(conference) + " conference.</s>\n") # For context in sentence form and jumbled
-            cFile.write("<s> " + str(season) + " , " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " , " + str(difference) + " </s>\n")# For context with deduction question
+            cFile.write("<s> " + str(season) + " , " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " , " + str(home_points) + " , " + str(away_points) + " </s>\n")# For context with deduction question
         for _ in range(0, 6):
             aFile.write("<s> the game occurred in " + str(season) + " . </s>\n")
         for _ in range(0, 6):
@@ -106,7 +106,7 @@ for i in range(0, 245):
             #cFile.write("<s> " + str(season) + " , " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " </s>\n")
             #cFile.write("<s> The game was played in " + str(season) + ". The head coach was " + str(coach) + ". The winner of the game was " + str(winner) + ". Notre Dame was ranked " + str(rank) + ". Notre Dame was a part of the " + str(conference) + " conference.</s>\n") # For context in sentence form, but not jumbled
             #cFile.write("<s> Notre Dame was ranked " + str(rank) + ". The game was played in " + str(season) + ". The head coach was " + str(coach) + ". The winner of the game was " + str(winner) + ". Notre Dame was a part of the " + str(conference) + " conference.</s>\n") # For context in sentence form and jumbled
-            cFile.write("<s> " + str(season) + " , " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " , " + str(difference) + " </s>\n")# For context with deduction question
+            cFile.write("<s> " + str(season) + " , " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " , " + str(home_points) + " , " + str(away_points) + " </s>\n")# For context with deduction question
         for _ in range(0, 6):
             aFile.write("<s> the game occurred in " + str(season) + " . </s>\n")
         for _ in range(0, 6):
@@ -147,7 +147,7 @@ for i in range(0, 245):
             #cFile.write("<s> " + str(season) + " , " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " </s>\n")
             #cFile.write("<s> The game was played in " + str(season) + ". The head coach was " + str(coach) + ". The winner of the game was " + str(winner) + ". Notre Dame was ranked " + str(rank) + ". Notre Dame was a part of the " + str(conference) + " conference.</s>\n") # For context in sentence form, but not jumbled
             #cFile.write("<s> The head coach was " + str(coach) +  ". Notre Dame was ranked " + str(rank) + ". The winner of the game was " + str(winner) + ". The game was played in " + str(season) + ". Notre Dame was a part of the " + str(conference) + " conference.</s>\n") # For context in sentence form and jumbled
-            cFile.write("<s> " + str(season) + " , " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " , " + str(difference) + " </s>\n")# For context with deduction question
+            cFile.write("<s> " + str(season) + " , " + str(coach) + " , " + str(winner) + " , " + str(rank) + " , " + str(conference) + " , " + str(home_points) + " , " + str(away_points) + " </s>\n")# For context with deduction question
         for _ in range(0, 6):
             aFile.write("<s> the game occurred in " + str(season) + " . </s>\n")
         for _ in range(0, 6):
