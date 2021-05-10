@@ -79,7 +79,7 @@ tokenized_answer = pad_sequences(tokenized_answer, padding="post", truncating="p
 #model = load_model("models/qa_g_lstm_context_increased_11.h5") # Simple context
 #model = load_model("models/qa_g_lstm_context_increased_11_sentence.h5") # Sentence context
 #model = load_model("models/qa_g_lstm_context_increased_11_jumbled.h5") # Jumbled context
-model = load_model = ("models/qa_g_lstm_context_increased_11_deduction.h5") # Deduction question added
+model = load_model("models/qa_g_lstm_context_increased_11_deduction.h5") # Deduction question added
 
 # Predict one word at a time
 for i in range(1, 10):
