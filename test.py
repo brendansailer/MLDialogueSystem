@@ -1,9 +1,11 @@
-from live_predictor import make_prediction
+from live_predictor import Predictor
 
 def test(test_type, questions, answers, context_line, debug):
+    predictor = Predictor(test_type) # This is a class which loads the tokenizes and model ONLY once, which speeds up subsequent predictions
+
     correct = 0
     for question, answer in zip(questions, answers):
-        response = make_prediction(question, context_line, test_type, debug)
+        response = predictor.make_prediction(question, context_line, debug)
         if response == answer:
             correct += 1
             print(response + ' == ' + answer)

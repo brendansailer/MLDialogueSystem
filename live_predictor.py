@@ -11,100 +11,105 @@ from keras.preprocessing.sequence import pad_sequences
 import tensorflow as tf
 from keras.models import load_model
 
-def get_paths(test):
-    if test == "simple":
-        model = "models/qa_g_lstm_context_increased_11.h5" # Simple context
-        context = "data/contexts.txt"
-        answ_tok = "toks/answer_tok.json"
-        ques_tok = "toks/question_tok.json"
-        cont_tok = "toks/context_tok.json"
+# This is a class which loads the tokenizes and model ONLY once, which speeds up subsequent predictions
+class Predictor:
+    def __init__(self, test):
+        random.seed(1337)
+        np.random.seed(1337)
+        tf.random.set_seed(1337)
 
-    elif test == "sentence":
-        model = "models/qa_g_lstm_context_increased_11_sentence.h5" # Sentence context
-        context = "data/contexts_sentence.txt"
-        answ_tok = "toks/answer_tok.json"
-        ques_tok = "toks/question_tok.json"
-        cont_tok = "toks/context_tok_sentence.json"
+        model_file, context_file, answ_tok, ques_tok, cont_tok = self.get_paths(test)
 
-    elif test == "jumbled":
-        model = "models/qa_g_lstm_context_increased_11_jumbled.h5" # Jumbled context
-        context = "data/contexts_jumbled.txt"
-        answ_tok = "toks/answer_tok.json"
-        ques_tok = "toks/question_tok.json"
-        cont_tok = "toks/context_tok_jumbled.json"
+        with open(answ_tok) as f:
+            self.answer_tokenizer = tokenizer_from_json(f.read())
+        with open(cont_tok) as f:
+            self.context_tokenizer = tokenizer_from_json(f.read())
+        with open(ques_tok) as f:
+            self.question_tokenizer = tokenizer_from_json(f.read())
 
-    elif test == "deduction":
-        model = "models/qa_g_lstm_context_increased_11_deduction.h5" # Deduction question added
-        context = "data/contexts_deduction.txt"
-        answ_tok = "toks/answer_tok_deduction.json"
-        ques_tok = "toks/question_tok_deduction.json"
-        cont_tok = "toks/context_tok_deduction.json"
+        self.model = load_model(model_file)
 
-    return model, context, answ_tok, ques_tok, cont_tok
+        self.context_file = context_file
 
-def make_prediction(question, line_num, test, debug):
-    random.seed(1337)
-    np.random.seed(1337)
-    tf.random.set_seed(1337)
-    
-    model_file, context_file, answ_tok, ques_tok, cont_tok = get_paths(test)
+    def get_paths(self, test):
+        if test == "simple":
+            model = "models/qa_g_lstm_context_increased_11.h5" # Simple context
+            context = "data/contexts.txt"
+            answ_tok = "toks/answer_tok.json"
+            ques_tok = "toks/question_tok.json"
+            cont_tok = "toks/context_tok.json"
 
-    with open(answ_tok) as f:
-        answer_tokenizer = tokenizer_from_json(f.read())
-    with open(cont_tok) as f:
-        context_tokenizer = tokenizer_from_json(f.read())
-    with open(ques_tok) as f:
-        question_tokenizer = tokenizer_from_json(f.read())
+        elif test == "sentence":
+            model = "models/qa_g_lstm_context_increased_11_sentence.h5" # Sentence context
+            context = "data/contexts_sentence.txt"
+            answ_tok = "toks/answer_tok.json"
+            ques_tok = "toks/question_tok.json"
+            cont_tok = "toks/context_tok_sentence.json"
 
-    # Sanitize the question input
-    question = re.sub('[^0-9a-zA-Z</>]+', ' ', question)
-    question = question.lower()
-    question = "<s> " + question + " </s>"
+        elif test == "jumbled":
+            model = "models/qa_g_lstm_context_increased_11_jumbled.h5" # Jumbled context
+            context = "data/contexts_jumbled.txt"
+            answ_tok = "toks/answer_tok.json"
+            ques_tok = "toks/question_tok.json"
+            cont_tok = "toks/context_tok_jumbled.json"
 
-    # Prepare the answer that starts with <s>
-    answer = "<s>"
+        elif test == "deduction":
+            model = "models/qa_g_lstm_context_increased_11_deduction.h5" # Deduction question added
+            context = "data/contexts_deduction.txt"
+            answ_tok = "toks/answer_tok_deduction.json"
+            ques_tok = "toks/question_tok_deduction.json"
+            cont_tok = "toks/context_tok_deduction.json"
 
-    # Load in the context
-    context_line = ''
-    with open(context_file) as f:
-        for i, line in enumerate(f):
-            if i == line_num:
-                context_line = line.strip()
-                context_line = re.sub('[^0-9a-zA-Z</>]+', ' ', context_line)
-                context_line = context_line.lower()
-            elif i > line_num:
-                break
+        return model, context, answ_tok, ques_tok, cont_tok
 
-    tokenized_context = context_tokenizer.texts_to_sequences([context_line])
-    tokenized_question = question_tokenizer.texts_to_sequences([question])
-    tokenized_answer = answer_tokenizer.texts_to_sequences([answer])
+    def make_prediction(self, question, line_num, debug):
+        # Sanitize the question input
+        question = re.sub('[^0-9a-zA-Z</>]+', ' ', question)
+        question = question.lower()
+        question = "<s> " + question + " </s>"
 
-    if debug:
-        print(context_line, tokenized_context)
-        print(question, tokenized_question)
-        print(answer, tokenized_answer)
+        # Prepare the answer that starts with <s>
+        answer = "<s>"
 
-    tokenized_context = pad_sequences(tokenized_context, padding="post", truncating="post", maxlen=30)
-    tokenized_question = pad_sequences(tokenized_question, padding="post", truncating="post", maxlen=20)
-    tokenized_answer = pad_sequences(tokenized_answer, padding="post", truncating="post", maxlen=10)
+        # Load in the context
+        context_line = ''
+        with open(self.context_file) as f:
+            for i, line in enumerate(f):
+                if i == line_num:
+                    context_line = line.strip()
+                    context_line = re.sub('[^0-9a-zA-Z</>]+', ' ', context_line)
+                    context_line = context_line.lower()
+                elif i > line_num:
+                    break
 
-    model = load_model(model_file)
+        tokenized_context  = self.context_tokenizer.texts_to_sequences([context_line])
+        tokenized_question = self.question_tokenizer.texts_to_sequences([question])
+        tokenized_answer   = self.answer_tokenizer.texts_to_sequences([answer])
 
-    # Predict one word at a time
-    for i in range(1, 10):
-        results = model.predict([tokenized_question, tokenized_answer, tokenized_context])
-        tokenized_answer[0][i] = np.argmax(results)
-    
-    response = answer_tokenizer.sequences_to_texts(tokenized_answer)
-    final_answer = response[0][response[0].index("<s>")+4:response[0].index("</s>")-1]
+        if debug:
+            print(context_line, tokenized_context)
+            print(question, tokenized_question)
+            print(answer, tokenized_answer)
 
-    if debug:
-        print()
-        print(tokenized_answer)
-        print(response)
-        print("FINAL ANSWER: " + final_answer)
+        tokenized_context  = pad_sequences(tokenized_context, padding="post", truncating="post", maxlen=30)
+        tokenized_question = pad_sequences(tokenized_question, padding="post", truncating="post", maxlen=20)
+        tokenized_answer   = pad_sequences(tokenized_answer, padding="post", truncating="post", maxlen=10)
 
-    return final_answer
+        # Predict one word at a time
+        for i in range(1, 10):
+            results = self.model.predict([tokenized_question, tokenized_answer, tokenized_context])
+            tokenized_answer[0][i] = np.argmax(results)
+        
+        response = self.answer_tokenizer.sequences_to_texts(tokenized_answer)
+        final_answer = response[0][response[0].index("<s>")+4:response[0].index("</s>")-1]
+
+        if debug:
+            print()
+            print(tokenized_answer)
+            print(response)
+            print("FINAL ANSWER: " + final_answer)
+
+        return final_answer
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -116,4 +121,5 @@ if __name__ == "__main__":
         print("Please use the -n and -q flags")
         quit()
 
-    make_prediction(' '.join(args.q), args.n, "simple", True)
+    predictor = Predictor("simple")
+    predictor.make_prediction(' '.join(args.q), args.n, True)
