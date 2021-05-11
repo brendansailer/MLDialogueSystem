@@ -42,7 +42,7 @@ def get_paths(test):
 
     return model, context, answ_tok, ques_tok, cont_tok
 
-def make_prediction(question, line_num, test):
+def make_prediction(question, line_num, test, debug):
     random.seed(1337)
     np.random.seed(1337)
     tf.random.set_seed(1337)
@@ -79,9 +79,10 @@ def make_prediction(question, line_num, test):
     tokenized_question = question_tokenizer.texts_to_sequences([question])
     tokenized_answer = answer_tokenizer.texts_to_sequences([answer])
 
-    print(context_line, tokenized_context)
-    print(question, tokenized_question)
-    print(answer, tokenized_answer)
+    if debug:
+        print(context_line, tokenized_context)
+        print(question, tokenized_question)
+        print(answer, tokenized_answer)
 
     tokenized_context = pad_sequences(tokenized_context, padding="post", truncating="post", maxlen=30)
     tokenized_question = pad_sequences(tokenized_question, padding="post", truncating="post", maxlen=20)
@@ -93,13 +94,16 @@ def make_prediction(question, line_num, test):
     for i in range(1, 10):
         results = model.predict([tokenized_question, tokenized_answer, tokenized_context])
         tokenized_answer[0][i] = np.argmax(results)
-
-    print()
-    print(tokenized_answer)
+    
     response = answer_tokenizer.sequences_to_texts(tokenized_answer)
-    print(response)
-    final_answer = response[0][response[0].index("<s>")+4:response[0].index("</s>")]
-    print("FINAL ANSWER: " + final_answer)
+    final_answer = response[0][response[0].index("<s>")+4:response[0].index("</s>")-1]
+
+    if debug:
+        print()
+        print(tokenized_answer)
+        print(response)
+        print("FINAL ANSWER: " + final_answer)
+
     return final_answer
 
 if __name__ == "__main__":
@@ -112,4 +116,4 @@ if __name__ == "__main__":
         print("Please use the -n and -q flags")
         quit()
 
-    make_prediction(' '.join(args.q), args.n, "deduction")
+    make_prediction(' '.join(args.q), args.n, "simple", True)
