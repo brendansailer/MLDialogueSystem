@@ -52,3 +52,7 @@ for i in range(50):
     print()  
 quit()  
 ```
+# Useful links
+https://github.com/aakashba/paqs2021/blob/paper/paqs_dev/models/ast_attendgru_xtra.py
+https://github.com/aakashba/paqs2021/blob/paper/model.md
+https://github.com/mcmillco/funcom/blob/master/models/attendgru.py
