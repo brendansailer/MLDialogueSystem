@@ -1,0 +1,1 @@
+This directory holds the files for the heatmap generation.  Note that we use Tensorflow version 2.2 here (see new requirements.txt)
