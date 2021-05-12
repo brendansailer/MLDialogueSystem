@@ -116,6 +116,11 @@ if __name__ == "__main__":
     question_tok = create_tokenizer(train_question, ques_vocabsize, 'toks/question_tok.json')
     #question_tok = create_tokenizer(train_question, ques_vocabsize, 'toks/question_tok_deduction.json') # For question with deduction question
 
+    # TF 2.2 toks
+    #context_tok  = create_tokenizer(train_context, cont_vocabsize, 'heatmap/toks/context_tok_2.2.json')
+    #answer_tok   = create_tokenizer(train_answer, answ_vocabsize, 'heatmap/toks/answer_tok_2.2.json')
+    #question_tok = create_tokenizer(train_question, ques_vocabsize, 'heatmap/toks/question_tok_2.2.json')
+
     # Use teacher forcing on the data.  We need to teacher force the train, val, and test separately after the data_split above
     train_context, train_answer, train_question, train_next_word = teacher_force(train_context, train_answer, train_question)
     val_context, val_answer, val_question, val_next_word         = teacher_force(val_context, val_answer, val_question)
@@ -138,6 +143,7 @@ if __name__ == "__main__":
     batch_size  = 70 # May update for more data
     history = model.fit(x=[train_question, train_answer, train_context], y=np.asarray(train_next_word), batch_size=batch_size, epochs=11, verbose=1, validation_data=([val_question, val_answer, val_context], val_next_word))
     model.save('models/qa_g_lstm_context_increased_11.h5') # Model for simple context
+    #model.save('heatmap/models/qa_g_lstm_context_increased_11_2.2.h5') # Model for simple context w/ TF 2.2
     #model.save('models/qa_g_lstm_context_increased_11_sentence.h5') # Model for sentence context
     #model.save('models/qa_g_lstm_context_increased_11_jumbled.h5') # Model for jumbled context
     #model.save('models/qa_g_lstm_context_increased_11_deduction.h5') # Model with deduction question
