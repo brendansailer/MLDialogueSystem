@@ -18,7 +18,7 @@ class Predictor:
         np.random.seed(1337)
         tf.random.set_seed(1337)
 
-        model_file, context_file, answ_tok, ques_tok, cont_tok = self.get_paths(test)
+        model_file, context_file, answ_tok, ques_tok, cont_tok, context_size = self.get_paths(test)
 
         with open(answ_tok) as f:
             self.answer_tokenizer = tokenizer_from_json(f.read())
@@ -31,6 +31,8 @@ class Predictor:
 
         self.context_file = context_file
 
+        self.context_size = context_size
+
     def get_paths(self, test):
         if test == "simple":
             model = "models/qa_g_lstm_context_increased_11.h5" # Simple context
@@ -38,6 +40,7 @@ class Predictor:
             answ_tok = "toks/answer_tok.json"
             ques_tok = "toks/question_tok.json"
             cont_tok = "toks/context_tok.json"
+            context_size = 30
 
         elif test == "sentence":
             model = "models/qa_g_lstm_context_increased_11_sentence.h5" # Sentence context
@@ -45,6 +48,7 @@ class Predictor:
             answ_tok = "toks/answer_tok.json"
             ques_tok = "toks/question_tok.json"
             cont_tok = "toks/context_tok_sentence.json"
+            context_size = 40
 
         elif test == "jumbled":
             model = "models/qa_g_lstm_context_increased_11_jumbled.h5" # Jumbled context
@@ -52,6 +56,7 @@ class Predictor:
             answ_tok = "toks/answer_tok.json"
             ques_tok = "toks/question_tok.json"
             cont_tok = "toks/context_tok_jumbled.json"
+            context_size = 40
 
         elif test == "deduction":
             model = "models/qa_g_lstm_context_increased_11_deduction.h5" # Deduction question added
@@ -59,8 +64,9 @@ class Predictor:
             answ_tok = "toks/answer_tok_deduction.json"
             ques_tok = "toks/question_tok_deduction.json"
             cont_tok = "toks/context_tok_deduction.json"
+            context_size = 30
 
-        return model, context, answ_tok, ques_tok, cont_tok
+        return model, context, answ_tok, ques_tok, cont_tok, context_size
 
     def make_prediction(self, question, line_num, debug):
         # Sanitize the question input
@@ -91,7 +97,7 @@ class Predictor:
             print(question, tokenized_question)
             print(answer, tokenized_answer)
 
-        tokenized_context  = pad_sequences(tokenized_context, padding="post", truncating="post", maxlen=30)
+        tokenized_context  = pad_sequences(tokenized_context, padding="post", truncating="post", maxlen=self.context_size)
         tokenized_question = pad_sequences(tokenized_question, padding="post", truncating="post", maxlen=20)
         tokenized_answer   = pad_sequences(tokenized_answer, padding="post", truncating="post", maxlen=10)
 

@@ -6,13 +6,13 @@ import keras
 import keras.utils
 
 class MLModel:
-    def __init__(self, ques_vocabsize, cont_vocabsize, answ_vocabsize):
+    def __init__(self, ques_vocabsize, cont_vocabsize, answ_vocabsize, context_length):
         self.ques_vocabsize = ques_vocabsize
         self.cont_vocabsize = cont_vocabsize
         self.answ_vocabsize = answ_vocabsize
         
         self.ques_len = 20
-        self.cont_len = 30
+        self.cont_len = context_length
         self.answ_len = 10
 
         self.embdims = 100

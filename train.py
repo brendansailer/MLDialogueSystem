@@ -90,9 +90,9 @@ if __name__ == "__main__":
     cont_vocabsize = 500
     answ_vocabsize = 500
 
-    context  = read_data('data/contexts.txt') # For context broken up by commas, not in sentence form
+    #context  = read_data('data/contexts.txt') # For context broken up by commas, not in sentence form
     #context  = read_data('data/contexts_sentence.txt') # For context in sentence form, but not jumbled
-    #context  = read_data('data/contexts_jumbled.txt') # For context in sentence form and jumbled
+    context  = read_data('data/contexts_jumbled.txt') # For context in sentence form and jumbled
     #context  = read_data('data/contexts_deduction.txt') # For context with deduction
     answer   = read_data('data/answers.txt')
     #answer   = read_data('data/answers_deduction.txt') # For answer with deduction
@@ -102,16 +102,19 @@ if __name__ == "__main__":
     line_count = len(question)
     print("The training data has " + str(line_count) + " rows.")
 
+    context_length = 40  # Use this for sentence and jumbled models
+    #context_length = 30 # Use this for simple and deduction models
+
     train_context, val_context, test_context    = data_split(context, line_count)
     train_answer, val_answer, test_answer       = data_split(answer, line_count)
     train_question, val_question, test_question = data_split(question, line_count)
 
     # Use the tokenizer fit_on_texts before we teacher force (manipulate the data)
-    context_tok  = create_tokenizer(train_context, cont_vocabsize, 'toks/context_tok.json')
+    #context_tok  = create_tokenizer(train_context, cont_vocabsize, 'toks/context_tok.json')
     #context_tok  = create_tokenizer(train_context, cont_vocabsize, 'toks/context_tok_sentence.json') # For context in sentence form, but not jumbled
-    #context_tok  = create_tokenizer(train_context, cont_vocabsize, 'toks/context_tok_jumbled.json') # For context in sentence form and jumbled
+    context_tok  = create_tokenizer(train_context, cont_vocabsize, 'toks/context_tok_jumbled.json') # For context in sentence form and jumbled
     #context_tok  = create_tokenizer(train_context, cont_vocabsize, 'toks/context_tok_deduction.json') # For context with deduction question
-    answer_tok   = create_tokenizer(train_answer, answ_vocabsize, 'toks/answer_tok.json') # TODO - use smaller vocab size on the answers b/c it'll work better to have less 0's
+    answer_tok   = create_tokenizer(train_answer, answ_vocabsize, 'toks/answer_tok.json')
     #answer_tok   = create_tokenizer(train_answer, answ_vocabsize, 'toks/answer_tok_deduction.json') # For answer with deduction
     question_tok = create_tokenizer(train_question, ques_vocabsize, 'toks/question_tok.json')
     #question_tok = create_tokenizer(train_question, ques_vocabsize, 'toks/question_tok_deduction.json') # For question with deduction question
@@ -132,18 +135,18 @@ if __name__ == "__main__":
     test_next_word  = pad_next_word(answer_tok, test_next_word, answ_vocabsize)
 
     # Tokenize and pad in the same line for cleaner code
-    train_context, val_context, test_context    = pad_data(30, *tokenize(context_tok, train_context, val_context, test_context))
+    train_context, val_context, test_context    = pad_data(context_length, *tokenize(context_tok, train_context, val_context, test_context))
     train_answer, val_answer, test_answer       = pad_data(10, *tokenize(answer_tok, train_answer, val_answer, test_answer))
     train_question, val_question, test_question = pad_data(20, *tokenize(question_tok, train_question, val_question, test_question))
 
-    model = MLModel(ques_vocabsize, cont_vocabsize, answ_vocabsize).get_model()
+    model = MLModel(ques_vocabsize, cont_vocabsize, answ_vocabsize, context_length).get_model()
 
     K.set_value(model.optimizer.learning_rate, 0.001)
 
     batch_size  = 70 # May update for more data
     history = model.fit(x=[train_question, train_answer, train_context], y=np.asarray(train_next_word), batch_size=batch_size, epochs=11, verbose=1, validation_data=([val_question, val_answer, val_context], val_next_word))
-    model.save('models/qa_g_lstm_context_increased_11.h5') # Model for simple context
+    #model.save('models/qa_g_lstm_context_increased_11.h5') # Model for simple context
     #model.save('heatmap/models/qa_g_lstm_context_increased_11_2.2.h5') # Model for simple context w/ TF 2.2
     #model.save('models/qa_g_lstm_context_increased_11_sentence.h5') # Model for sentence context
-    #model.save('models/qa_g_lstm_context_increased_11_jumbled.h5') # Model for jumbled context
+    model.save('models/qa_g_lstm_context_increased_11_jumbled.h5') # Model for jumbled context
     #model.save('models/qa_g_lstm_context_increased_11_deduction.h5') # Model with deduction question
