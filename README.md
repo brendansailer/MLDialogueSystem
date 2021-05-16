@@ -4,6 +4,7 @@
 - The model is heavily based from this paper: https://arxiv.org/abs/2101.03999
 
 ## General
+- For the best experience, clone the repository and open it in an IDE like VSCode that supports .png's
 - Each subdirectory has a README.txt which details what is contained in it
 - The root directory contains the files to:
     - Collect the college football data (`dataCollection.py`)
@@ -12,6 +13,9 @@
     - Train the model (`train.py`)
     - Make a single prediction (`live_predictor.py`)
     - Test the models (`test.py`)
+- The heatmap directory provides insight into where the model is looking to predict the next word
+    - Please look there for analysis on the heatmap images when answering 3 questions
+    - The images were generated for the simple model and the sentence context model
 
 ## TO USE:
 - python3 `live_predictor.py` -n 1 -q "who was the coach ?"
