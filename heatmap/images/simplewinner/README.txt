@@ -1,5 +1,5 @@
-The model is trying to predict the year of the game (2000) in this sentence:
-['<s> the game occurred in UNK UNK UNK UNK UNK']
+The model is trying to predict the winner (sentence starts with winning's team name):
+['<s> UNK UNK UNK UNK UNK UNK UNK UNK UNK']
 
 
 The activation layer is plotting the context (x-axis) vs the answer (y-axis)
